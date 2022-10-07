@@ -24,7 +24,6 @@ plt.bar(x,y, color = "green")
 
 font1 = {'family':'serif','color':'blue','size':20}
 font2 = {'family':'serif','color':'darkblue','size':15}
-font3 = {'family':'serif','color':'blue','size':8}
 
 # Function to avoid overlapping
 plt.xticks(rotation=45, ha="right")
