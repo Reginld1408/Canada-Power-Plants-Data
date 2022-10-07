@@ -6,7 +6,7 @@
 I used the Kaggle global power plants dataset ( https://www.kaggle.com/datasets/ramjasmaurya/global-powerplants )
 and focused on the Canadian Power Plants Data.
 
-I've included my Power BI report with a live map of the plants and their primary fuel,
+I've included my Power BI report with a live map of the plants by capacity and primary fuel,
 as well as a Python matplotlib bar plot of the top 10 power plants by capacity in MW
 ( 1 megawatt (MW) of solar panels will generate 2,146 megawatt hours (MWh) of solar energy per year )
 
