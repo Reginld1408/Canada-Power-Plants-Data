@@ -10,6 +10,8 @@ I've included my Power BI report with a live map of the plants by capacity and p
 as well as a Python matplotlib bar plot of the top 10 power plants by capacity in MW
 ( 1 megawatt (MW) of solar panels will generate 2,146 megawatt hours (MWh) of solar energy per year )
 
+To view the bar plot simply open the terminal and run the main.py file
+
 The Power BI report is included but can also be viewed here:
 https://app.powerbi.com/reportEmbed?reportId=17ff5c31-4a07-4986-a611-b80aaffd3a49&autoAuth=true&ctid=f52f2183-9f67-4ad2-b656-6f754fe196cb
 
